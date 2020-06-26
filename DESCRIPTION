@@ -8,8 +8,7 @@ Authors@R:
            email = "drdavidbutcher@gmail.com",
            comment = c(ORCID = "0000-0002-1268-4150"))
 Description: An assortment of useful self-contained functions, mostly protemics related.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

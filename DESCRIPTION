@@ -1,0 +1,16 @@
+Package: butchershop
+Title: Assorted useful functions by DSB
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "David",
+           family = "Butcher",
+           role = c("aut", "cre"),
+           email = "drdavidbutcher@gmail.com",
+           comment = c(ORCID = "0000-0002-1268-4150"))
+Description: An assortment of useful self-contained functions, mostly protemics related.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0

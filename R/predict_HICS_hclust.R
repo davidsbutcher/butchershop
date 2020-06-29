@@ -12,6 +12,8 @@
 #' @return A numeric vector of the theoretical HICS for the provided sequence.
 #' @export
 #'
+#' @importFrom magrittr %>%
+#'
 #' @examples
 #' predict_HICS_hclust("AAAAKAAAA", height = 3)
 
